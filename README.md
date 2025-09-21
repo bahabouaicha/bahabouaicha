@@ -1,6 +1,6 @@
-# 👋 Je suis Baha Bouaicha
+#  Je suis Baha Bouaicha
 
-Je suis un étudiant en ingénierie passionné par DevOps, le cloud computing, la cybersécurité et les technologies modernes.
+Je suis un étudiant en cycle d'ingénierie passionné par DevOps, le cloud computing, la cybersécurité et les technologies modernes.
 
 ## 🚩 Langages de programmation
 <p align="center">
