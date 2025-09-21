@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Baha Bouaicha
+# I'm Baha Bouaicha
 
-Je suis un étudiant en ingénierie passionné par le développement, les technologies modernes et la cybersécurité.
+I am an engineering student passionate about development, modern technologies, and cybersecurity.
 
 ## 🚩 Langues
 <p align="center">
