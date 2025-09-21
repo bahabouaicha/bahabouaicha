@@ -1,8 +1,8 @@
-#  I'm Baha Bouaicha
+# 👋 I'm Baha Bouaicha
 
 I am an engineering student passionate about development, modern technologies, and cybersecurity.
 
-## 🚩 Langues
+## 🚩 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -20,7 +20,15 @@ I am an engineering student passionate about development, modern technologies, a
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+## 🏗️ Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
 ## 📫 Contact
 <p align="center">
-  [GitHub](https://github.com/bahabouaicha) | Courriel : bahabouaicha98@gmail.com
+  [GitHub](https://github.com/bahabouaicha) | Email: bahabouaicha98@gmail.com
 </p>
