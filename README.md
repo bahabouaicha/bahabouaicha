@@ -1,29 +1,29 @@
-# I'm Baha Bouaicha
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Baha Bouaicha - Profile</title>
+</head>
+<body>
+    <h1>👋 I'm Baha Bouaicha</h1>
+    <p>I'm an engineering student passionate about development, modern technologies, and cybersecurity.</p>
 
-I am an engineering student passionate about development, modern technologies, and cybersecurity.
+    <h2>🚩 Languages</h2>
+    <p>Python, JavaScript, SQL, PHP, C++</p>
 
-## 🚩 Langues
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-0064a5?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+    <h2>🛠️ Technologies</h2>
+    <p>Docker, Linux, DevOps, Spring Boot, Angular, Network Security</p>
 
-## 🛠️ Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+    <h2>🏗️ Frameworks</h2>
+    <p>Docker, Linux, Spring Boot, Angular</p>
 
-## 📫 Contact
-<p align="center">
-  [GitHub](https://github.com/bahabouaicha) | Courriel : bahabouaicha98@gmail.com
-</p>
+    <h2>📫 Contact</h2>
+    <p>
+        <a href="https://github.com/bahabouaicha">GitHub</a> | Email: <a href="mailto:bahabouaicha98@gmail.com">bahabouaicha98@gmail.com</a>
+    </p>
+</body>
+</html>
+
 
 
 
